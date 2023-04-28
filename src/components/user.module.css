@@ -1,0 +1,24 @@
+.user {
+  background-color: #222;
+  padding: 0.6rem;
+  border-radius: 0.6rem;
+  margin: 1rem;
+  color: white;
+}
+
+.user:hover {
+  background-color: #111;
+}
+
+.user h2 {
+  color: orange;
+}
+
+.user a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.email {
+  font-size: 0/8rem;
+}
